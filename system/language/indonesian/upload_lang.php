@@ -1,5 +1,13 @@
 <?php
 
+/* Daeng Muhammad Feisal
+@daengdoang
+@jojodogstudio
+Code Igniter System Indonesian Languange
+June 24th 2014
+
+*/
+
 $lang['upload_userfile_not_set'] = 'Tidak dapat menemukan variable post yg bernama userfile.';
 $lang['upload_file_exceeds_limit'] = 'File yang di upload besarnya melebihi batas maksimal ukuran file yang di perbolehkan di konfigurasi PHP anda.';
 $lang['upload_file_exceeds_form_limit'] = 'File yang di upload besarnya melebihi batas maksimal yang di perbolehkan oleh form pengaju.';
