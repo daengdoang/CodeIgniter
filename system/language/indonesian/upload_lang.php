@@ -27,4 +27,4 @@ $lang['upload_not_writable'] = 'Folder tujuan upload sepertinya tidak dapat di t
 
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/english/upload_lang.php */
+/* Location: ./system/language/indonesian/upload_lang.php */
